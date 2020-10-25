@@ -22,6 +22,6 @@ cleaned_data.csv is the dataset after deleting some dirty data on BodyFat.csv. T
 
 Code.Rmd is a RMarkDown file which contains code of data cleaning, model, hypothesis checking and assumptions checking.
 
-app.R is the R code which used to build a application call Body Fat Calculator based on our model. You can use it in this website.[Body Fat Calculator]（https://yuxiao2268.shinyapps.io/BodyFat/）
+app.R is the R code which used to build a application called Body Fat Calculator based on our model. You can use it in this website.[Body Fat Calculator]（https://yuxiao2268.shinyapps.io/BodyFat/）
 
 Summary.pdf is our brieef report of this project in which we described our motivation, model selection, statistical analysis, model diagnosis and model strengths and weaknesses.
