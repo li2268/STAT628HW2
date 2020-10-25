@@ -24,4 +24,6 @@ Code.Rmd is a RMarkDown file which contains code of data cleaning, model, hypoth
 
 app.R is the R code which used to build a application called Body Fat Calculator based on our model. You can use it in this website.[Body Fat Calculator]（https://yuxiao2268.shinyapps.io/BodyFat/）
 
+1-6.png are images of data processing and model diagnosis.
+
 Summary.pdf is our brieef report of this project in which we described our motivation, model selection, statistical analysis, model diagnosis and model strengths and weaknesses.
