@@ -26,4 +26,4 @@ app.R is the R code which used to build a application called Body Fat Calculator
 
 1-6.png are images of data processing and model diagnosis.
 
-Summary.pdf is our brieef report of this project in which we described our motivation, model selection, statistical analysis, model diagnosis and model strengths and weaknesses.
+Summary.pdf is our brief report of this project in which we described our motivation, model selection, statistical analysis, model diagnosis and model strengths and weaknesses.
