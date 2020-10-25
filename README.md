@@ -1,8 +1,8 @@
 # STAT628HW2
 
 - [\Code](https://github.com/li2268/STAT628HW2/tree/main/Code):
-  -[Code.Rmd](https://github.com/li2268/STAT628HW2/blob/main/Code/Code.Rmd)
-  -[app.R](https://github.com/li2268/STAT628HW2/blob/main/Code/app.R)
+  -[Code.Rmd](https://github.com/li2268/STAT628HW2/blob/main/Code/Code.Rmd)*(created by Zhihao Zhao, revised by Yuxiao Li and Shikun Liu)*
+  -[app.R](https://github.com/li2268/STAT628HW2/blob/main/Code/app.R)*(created by Yuxiao Li, revised by Zhihao Zhao and Shikun Liu)*
 - [\Data](https://github.com/li2268/STAT628HW2/tree/main/Data):
   -[BodyFat.csv](https://github.com/li2268/STAT628HW2/blob/main/Data/BodyFat.csv)
   -[cleaned_data.csv](https://github.com/li2268/STAT628HW2/blob/main/Data/cleaned_data.csv)
@@ -13,7 +13,7 @@
   -[4.png](https://github.com/li2268/STAT628HW2/blob/main/Image/4.png)
   -[5.png](https://github.com/li2268/STAT628HW2/blob/main/Image/5.png)
   -[6.png](https://github.com/li2268/STAT628HW2/blob/main/Image/6.png)
-- [\Summary](https://github.com/li2268/STAT628HW2/blob/main/Summary.pdf)
+- [\Summary](https://github.com/li2268/STAT628HW2/blob/main/Summary.pdf)*(created by Zhihao Zhao, revised by Yuxiao Li and Shikun Liu)*
 
 ## Usage
 BodyFat.csv is the raw dataset which contains 252 men with measurement of their percentage of body fat and various body circumference measurements.
